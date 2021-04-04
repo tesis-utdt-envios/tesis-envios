@@ -1,5 +1,5 @@
-# tesis-envios
-Repositorio de Tesis UTDT - MiM - 2021
+# Tesis-Envios
+Repositorio de Tesis Envíos - MiM - 2021: Clasificación de Envíos mediante Procesamiento de Texto
 Elaborador por: Damián Izarnotegui
 
 **EDA**: archivo comprimido que contiene el jupyter notebook donde se realizó todo el análisis exploratorio de los datos.
